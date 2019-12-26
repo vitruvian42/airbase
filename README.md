@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have initialized this project using create-react-app
+
+The data file is loaded from src/assets/data/request.json (if new data needs to be tested please update this file)
 
 ## Available Scripts
 
